@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahmina-07
+- 👋 Hi, I’m Tahmina Sahar 
 - 👀 I’m interested in Web Development and Data Science 
 - 🌱 I’m currently learning Python, Java, and Web Development 
 - 💞️ I’m looking to collaborate on Python and web Development Projects
