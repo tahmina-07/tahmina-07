@@ -1,8 +1,8 @@
 👋 Hi there, I'm Tahmina Sahar! 
 
-👀 Passionate about the world of Web Development and Data Science, I'm always seeking opportunities to learn and grow in these exciting fields.
+👀 Passionate about AI, ML, Web Development, and Data Science, I always seek opportunities to learn and grow in these exciting fields.
 
-🌱 Currently, I'm immersing myself in the world of Python, Java, and Web Development, constantly expanding my knowledge and honing my skills.
+🌱 Currently, I'm immersing myself in Python, R, and Web Development, constantly expanding my knowledge and honing my skills.
 
 💞️ I'm eager to collaborate on projects that involve Python and Web Development, as I believe in the power of teamwork and the magic that happens when innovative minds come together.
 
