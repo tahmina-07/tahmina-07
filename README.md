@@ -6,7 +6,7 @@
 
 💞️ I'm eager to collaborate on projects that involve Python and Web Development, as I believe in the power of teamwork and the magic that happens when innovative minds come together.
 
-✨ Beyond coding and problem-solving, I thrive in an environment where creativity intertwines with technology, making the web a more engaging and delightful place to explore.
+✨ Beyond coding and problem-solving, I thrive in an environment where creativity intertwines with technology. 
 
 🎯 On my journey to become a skilled developer, I embrace challenges as learning opportunities and believe that continuous growth is the key to success.
 
